@@ -1,0 +1,33 @@
+body {
+    background-color: #2F4F4F;
+    color: #FAEBD7;
+    font-family:'Space Mono', monospace, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #FFDEAD;
+}
+
+table {
+    border: 5px solid #FFE4E1;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #FFE4E1;
+    color: #2F4F4F;
+    font-weight: bold;
+    border: 2px solid #2F4F4F;
+    font-weight: bold;
+}
+
+td {
+    border: 2px solid #FFE4E1;
+}
+
+.code {
+    background-color: #778899;
+    font-style: italic;
+    font-weight: light;
+}

@@ -34,3 +34,15 @@ td {
     font-style: italic;
     font-weight: light;
 }
+
+.tag {
+ width: 100px;
+}
+
+.name {
+    width: 150px;
+}
+
+.des {
+    width: auto;
+}

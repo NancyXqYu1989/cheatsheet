@@ -3,15 +3,18 @@ body {
     color: #FAEBD7;
     font-family:'Space Mono', monospace, sans-serif;
     text-align: center;
+
 }
 
 h2 {
     color: #FFDEAD;
+    margin-top: 50px;
 }
 
 table {
     border: 5px solid #FFE4E1;
     border-collapse: collapse;
+    margin: 10px auto;
 }
 
 th {
